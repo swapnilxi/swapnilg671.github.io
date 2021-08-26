@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Swapnil Gupta🐱‍👤</h1>
-<h3 align="center">I am a Developer, I believe in abstraction of code to build global ecosystem of Integrated technologies. What Describes me the best? A cup of Coffee, and a few lines of codes.🧑‍💻</h3>
+<h3 align="center">I am a Developer, I believe in abstraction of code to build global ecosystem of Integrated technologies. What Describes me the best? A cup of Coffee, and a few lines of codes.☕🧑‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilg671&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilg671" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/swapnilg671/](https://www.linkedin.com/in/swapnilg671/)
 
-- ⚡ Fun fact **I e**
+- ⚡ Fun fact **I Know, I am Awesome ^_^**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
