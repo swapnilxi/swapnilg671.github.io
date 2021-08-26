@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/insanity_xi" target="blank"><img src="https://img.shields.io/twitter/follow/insanity_xi?logo=twitter&style=for-the-badge" alt="insanity_xi" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Computing**
+- 🔭 I’m currently working on **Web and App Development**
 
 - 🌱 I’m currently learning **Cloud Computing, Java Development**
 
