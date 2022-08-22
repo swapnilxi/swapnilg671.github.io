@@ -11,19 +11,19 @@
 
 - 👯 I’m looking to collaborate on **Home2Hospital**
 
-- 💬 Ask me about **Cloud Computing, React Native**
+- 💬 Ask me about **Cloud Computing, Computer vision**
 
-- 📫 How to reach me **swapnilg671@gmail.com**
+- 📫 How to reach me **swapnilg671@gmail.com** || **swapnil.xi@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/swapnilg671/](https://www.linkedin.com/in/swapnilg671/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/swapnilxi/](https://www.linkedin.com/in/swapnilxi/)
 
 - ⚡ Fun fact **I Know, I am Awesome ^_^**
-- 🐱‍💻  see more projects  **https://github.com/swapnilg671**
+- 🐱‍💻  see more projects  **https://github.com/swapnilxi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/insanity_xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="insanity_xi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swapnilg671/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnilg671/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/swapnilxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnilxi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
